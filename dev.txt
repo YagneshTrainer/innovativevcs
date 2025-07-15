@@ -1,1 +1,2 @@
-Welcome to version control git 
+Welcome to distributed Version Control 
+
